@@ -6,7 +6,7 @@ This is an extension project of [HousePredAlgo](https://github.com/stevemats/Hou
 
 ## Dataset
 
-The dataset used for this project is stored in a CSV file named "Real estate.csv" under the "Dataset" folder which was ported from [HousePredAlgo](https://github.com/stevemats/HousePredAlgo)- refer to it for further description.
+The dataset used for this project is stored in a CSV file named "Real estate.csv" under the "[Dataset](https://github.com/stevemats/RfDtClassifier/tree/main/Dataset)" folder which was ported from [HousePredAlgo](https://github.com/stevemats/HousePredAlgo)- refer to it for further description.
 
 ## Random Forest and Decision Trees
 
@@ -36,4 +36,4 @@ Based on the MSE comparison, I'll determine whether Random Forest or Decision Tr
 
 ## Final Report
 
-You can now view the final report which is available under the "Report" folder📁.
+You can now view the final report which is available under the "[Report](https://github.com/stevemats/RfDtClassifier/blob/main/Report/Report.pdf)" folder📁.
